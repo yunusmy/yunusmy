@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">About me<br>Hi there! 👋 I'm a passionate developer with a focus on building modern, user-centric applications. I specialize in:<br><br>Frontend:  HTML5, CSS3, Tailwind CSS, SASS, React.js, Next.js,<br>Backend: Node.js, Express, MongoDB<br>Languages: JavaScript, TypeScript<br>I love creating intuitive and scalable applications, whether it's designing sleek UI or architecting powerful APIs. When I'm not coding, you can find me exploring the latest trends in tech or working on personal projects.</h2>
+<h2 align="left">About me<br>Hi there! 👋 I'm a passionate developer with a focus on building modern, user-centric applications. I specialize in:<br><br>Frontend:  HTML5, CSS3, Tailwind CSS, SASS, React.js, Next.js,<br>Backend: Node.js, Express.js, MongoDB<br>Languages: JavaScript, TypeScript<br>I love creating intuitive and scalable applications, whether it's designing sleek UI or architecting powerful APIs. When I'm not coding, you can find me exploring the latest trends in tech or working on personal projects.</h2>
 
 ###
 
