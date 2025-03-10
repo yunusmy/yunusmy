@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">I code widh</h2>
 
 ###
 
